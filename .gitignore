@@ -1,0 +1,6 @@
+﻿.env
+daily_bot.db
+__pycache__/
+*.py[cod]
+venv/
+.venv/
